@@ -71,7 +71,7 @@
 <hr/>
 <div align="center">
 <h1>Social's 🌐</h1>
-    <a href="https://instagram.com/akbermahmudow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbermahmudow" height="30" width="40" /></a>
+    <a href="https://instagram.com/1prakratura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbermahmudow" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/1timsah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1timsah" height="30" width="40" /></a>
 <a href="https://discord.gg/1008845353526771712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1008845353526771712" height="30" width="40" /></a>
 </div>
