@@ -111,7 +111,7 @@
 <hr>
 <div align="center">
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1timsah&theme=dark" alt="1timsah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1timsah&theme=dark" alt="herbiprakratura" /></p>
 </div>
 
 <hr>
