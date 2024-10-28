@@ -62,7 +62,7 @@
 <div align="center"><div align="center">
     <h2>🍪 Cookie 🍪</h2>
     
-[![Discord Presence](https://lanyard.cnrad.dev/api/1008845353526771712)](https://discord.com/users/1008845353526771712) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/356450093357989909)](https://discord.com/users/356450093357989909) 
 
 <br/><br/><br/> 
 </div>
@@ -73,7 +73,7 @@
 <h1>Social's 🌐</h1>
     <a href="https://instagram.com/1prakratura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbermahmudow" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/1timsah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1timsah" height="30" width="40" /></a>
-<a href="https://discord.gg/1008845353526771712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1008845353526771712" height="30" width="40" /></a>
+<a href="https://discord.gg/356450093357989909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="356450093357989909" height="30" width="40" /></a>
 </div>
 </div>
 <br>
