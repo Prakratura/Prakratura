@@ -62,7 +62,7 @@
 <div align="center"><div align="center">
     <h2>🍪 Cookie 🍪</h2>
     
-[![Discord Presence](https://lanyard.cnrad.dev/api/356450093357989909)](https://discord.com/users/356450093357989909) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1008845353526771712)](https://discord.com/users/1008845353526771712) 
 
 <br/><br/><br/> 
 </div>
@@ -111,7 +111,7 @@
 <hr>
 <div align="center">
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1timsah&theme=dark" alt="herbiprakratura" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakratura&theme=dark" alt="Prakratura" /></p>
 </div>
 
 <hr>
